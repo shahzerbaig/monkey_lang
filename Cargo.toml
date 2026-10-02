@@ -1,0 +1,18 @@
+[package]
+name = "monkey_lang"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[build]
+rustflags = ["-C", "debuginfo=2"]
+
+[alias]
+ck = "check"
+cl = "clippy --all-targets --all-features"
+t = "test"
+b = "build"
+br = "build --release"
+r = "run"
