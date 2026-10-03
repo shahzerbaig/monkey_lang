@@ -2,6 +2,12 @@
 name = "monkeyc"
 version = "0.1.0"
 edition = "2024"
+description = "A Monkey programming language implementation in Rust"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/shahzerbaig/monkeyc"
+keywords = ["monkey", "language", "compiler", "interpreter"]
+categories = ["compilers", "command-line-utilities"]
 
 [dependencies]
 
