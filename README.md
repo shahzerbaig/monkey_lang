@@ -1,3 +1,9 @@
 # Monkey Lang
 
-A language made for even a monkey to program on.
+A Monkey programming language implementation written in Rust.
+
+## Installation
+
+```bash
+cargo install monkeyc
+```
